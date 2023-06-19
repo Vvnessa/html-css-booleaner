@@ -1,14 +1,15 @@
 .header{
 
     background-color: aqua;
-};
+}
 
-#table {
-    background-color: aqua;
 
-};
 
 footer{
-
+    text-align: center;
+    padding: 3px;
     background-color: blue;
+    color:aliceblue;
+
+   
 }
